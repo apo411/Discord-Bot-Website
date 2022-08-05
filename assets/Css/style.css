@@ -1,0 +1,138 @@
+:root {
+
+    --bg: #1c1c1c;
+    --beyaz: #fff;
+    --redd: rgb(214, 0, 0);
+
+}
+
+
+
+::-webkit-scrollbar{width: 10px;}
+::-webkit-scrollbar-track{background-color: var(--bg);}
+::-webkit-scrollbar-thumb{ background: var(--redd); border-radius:50px; -webkit-border-radius:50px; -moz-border-radius:50px; -ms-border-radius:50px; -o-border-radius:50px; }
+
+
+body {
+    background-color: var(--bg);
+    color: var(--beyaz);
+}
+
+
+.navbar-li {
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.navbar-h1 {
+    display: inline-block;
+    color: rgb(214, 0, 0);
+}
+
+.navbar-a {
+    text-decoration: none;
+    color: var(--beyaz);
+    transition: 0.5s;
+}
+
+.navbar-a:hover {
+    color: rgb(216, 216, 216);
+}
+
+.center {
+    margin-top: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-img {
+    border-radius: 40px;
+}
+
+.main-h1{
+    margin-top: 20px;
+}
+
+.main-p{
+    margin-top: 30px;
+    font-size: 25px;
+}
+.main-button-p{
+    margin-top: 90px;
+}
+.invite-btn{
+    margin-top: 50px;
+    color: var(--beyaz);
+    text-decoration: none;
+    font-size: 30px;
+    border: 1px solid var(--redd);
+    padding: 25px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.invite-btn:hover{
+    background-color: var(--redd);
+    color: var(--beyaz);
+
+}
+
+.hr-1{
+    margin-top: 200px;
+}
+.botCommand{
+    text-align: center;
+}
+.red{
+    color: var(--redd);
+}
+
+.com-h1{
+    margin-top: 50px;
+}
+.accordion{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 760px;
+}
+.accordion-item{
+    background-color: var(--bg);
+    color: var(--beyaz);
+    border-color: var(--redd);
+}
+.accordion-button{
+    color: var(--beyaz);
+    background-color: var(--bg);
+    border-color: var(--redd);
+}
+.accordion-collapse{
+    color: var(--beyaz);
+    background-color: var(--bg);
+
+}
+.accordion-button:hover{
+    color: var(--redd);
+}
+
+.server-user{
+    text-align: center;
+}
+.server-app{
+    margin-top: 200px;
+}
+.user-app{
+    margin-top: 100px;
+}
+
+.bot-stat{
+font-size: 50px;
+}
+
+.footer-text{
+    margin-top: 120px;
+    text-align: center;
+}
