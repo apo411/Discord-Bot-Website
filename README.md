@@ -1,6 +1,9 @@
 # Discord-Bot-Website
 
 
+<h1>A website where you can promote Discord bots</h1>
 
-#Images
+# Images
 ![setup](https://cdn.discordapp.com/attachments/892446408911749141/1005018490752749608/unknown.png)
+![setup](https://cdn.discordapp.com/attachments/892446408911749141/1005018552786485348/unknown.png)
+![setup](https://cdn.discordapp.com/attachments/892446408911749141/1005018599670423612/unknown.png)
