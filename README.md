@@ -1,6 +1,6 @@
 # Discord-Bot-Website
 
-<h3><a href="https://discord.gg/PBHpR4acrM"></a></h3>
+<h3><a href="https://discord.gg/PBHpR4acrM">My discord server</a></h3>
 <h1>A website where you can promote Discord bots</h1>
 
 # Images
